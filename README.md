@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 #### Node.JS installation for Windows
 
 - Download and install the latest version of Node.JS from [here](https://nodejs.org/en/) 
-- After intalling, open command prompt and type ```node --version```
+- After installing, open command prompt and type ```node --version```
 - You will see output like ```v10.15.3```
 - Version might be different in your case.
 
